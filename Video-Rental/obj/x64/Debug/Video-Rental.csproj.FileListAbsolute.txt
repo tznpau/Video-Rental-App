@@ -1,0 +1,14 @@
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\bin\x64\Debug\Video-Rental.exe.config
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\bin\x64\Debug\Video-Rental.exe
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\bin\x64\Debug\Video-Rental.pdb
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video-Rental.csproj.AssemblyReference.cache
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video-Rental.csproj.SuggestedBindingRedirects.cache
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video_Rental.Forms.Clients.resources
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video_Rental.Forms.Films.resources
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video_Rental.Forms.MainForm.resources
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video_Rental.Forms.Rentals.resources
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video_Rental.Properties.Resources.resources
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video-Rental.csproj.GenerateResource.cache
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video-Rental.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video-Rental.exe
+C:\Users\paula\source\repos\Video-Rental\Video-Rental\obj\x64\Debug\Video-Rental.pdb
